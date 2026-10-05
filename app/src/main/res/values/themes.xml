@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ToastHandler" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+
+        <item name="colorAccent">#6200EE</item>
+        <item name="colorButtonNormal">#6200EE</item>
+    </style>
+</resources>
